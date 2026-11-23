@@ -1,7 +1,7 @@
 # ProjectGenie
 ProjectGenie - Java Swing (AI ChatBot)
 
- Overview
+ Overview:
 
 ProjectGenie is a Java Swing-based ChatBot that helps users find project
 ideas and coding challenges.
@@ -10,7 +10,7 @@ and Professional levels.
 
 ------------------------------------------------------------------------
 
-* Features
+* Features:
 
     -   User-friendly GUI using Java Swing.
     -   Asks for user name and interacts conversationally.
@@ -29,7 +29,7 @@ and Professional levels.
 
 ------------------------------------------------------------------------
 
-* How to Run
+* How to Run:
 
 1.  Open the project in NetBeans / IntelliJ / any Java IDE.
 2.  Make sure the file name is ProjectGenie.java.
@@ -39,7 +39,7 @@ and Professional levels.
 
 ------------------------------------------------------------------------
 
-* Example Usage
+* Example Usage:
 
     Bot: Hey there! Type your name to start.
     User: Adnan
@@ -55,14 +55,14 @@ and Professional levels.
 
 ------------------------------------------------------------------------
 
-* File Structure
+* File Structure:
 
 -   ProjectGenie.java → Main chatbot source code.
 -   README.txt → Documentation and usage guide.
 
 ------------------------------------------------------------------------
 
-* Future Improvements
+* Future Improvements:
 
 -   Add database support to save user progress.
 -   Provide detailed project descriptions & source code templates.
@@ -73,7 +73,7 @@ and Professional levels.
 
 ------------------------------------------------------------------------
 
-* Author
+* Author:
 
 -   Developed by: Md. Adnun Ahemed Methun
 -   Language: Java (Swing Framework)
